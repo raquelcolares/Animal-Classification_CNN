@@ -1,4 +1,4 @@
-# Animal Classification
+# Animal Classification 🐱 🐶 🐴 🐏 🐔 🐮 🐘 
 ## Convolutional Neural Network
 
 #### Objective
