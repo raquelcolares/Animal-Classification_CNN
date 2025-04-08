@@ -8,8 +8,8 @@ The classification has around 28K animal images and the 10 classes are dog, cat,
 
 The objective of this project is to apply the CNN concepts learned creating 2 CNN's architecture, training and evaluating the model, and after analyse 2 models using transfer learning using the same conditions as the previous ones created.  
 
-- Part 1: CNN architecture and Training from scratch
-- Part 2: CNN and Training using transfer learning
+- A) CNN architecture and Training from scratch
+- B) CNN and Training using transfer learning
 
 #### References
 
